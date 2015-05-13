@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2013\Projects\SERVER\Informacion\bin\Debug\Informacion.dll
+D:\Documents\Visual Studio 2013\Projects\SERVER\Informacion\bin\Debug\Informacion.pdb
+D:\Documents\Visual Studio 2013\Projects\SERVER\Informacion\obj\Debug\Informacion.dll
+D:\Documents\Visual Studio 2013\Projects\SERVER\Informacion\obj\Debug\Informacion.pdb
+D:\Documents\Visual Studio 2013\Projects\SERVER\Informacion\obj\Debug\Informacion.csprojResolveAssemblyReference.cache

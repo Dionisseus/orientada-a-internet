@@ -1,0 +1,8 @@
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\bin\Debug\SERVER.exe.config
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\bin\Debug\SERVER.exe
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\bin\Debug\SERVER.pdb
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\bin\Debug\Informacion.dll
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\bin\Debug\Informacion.pdb
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\obj\Debug\SERVER.exe
+d:\documents\visual studio 2013\Projects\SERVER\SERVER\obj\Debug\SERVER.pdb
